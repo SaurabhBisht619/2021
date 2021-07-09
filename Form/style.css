@@ -1,0 +1,13 @@
+.col{
+    color: white;
+}
+h5,h3,h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fou{
+    border: 1px solid black;
+    border-radius: 100%;
+}
